@@ -29,5 +29,13 @@
     <li>Banco de Dados
     </li>
     <li>Projetos
+        <ul>
+            <li>Guilherme Mendes</li>
+            <li>Leonardo Rodrigues</li>
+            <li>Victor Morais</li>
+            <li>Nicollas Eduardo</li>
+            <li>Matheus Oliveira</li>
+            <li>Félix Rodrigo</li>
+        </ul>
     </li>
 </ul>
