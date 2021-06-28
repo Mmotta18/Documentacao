@@ -13,5 +13,21 @@
 <p align="center">"Atividades simples ainda são feitas manualmente, como por exemplo: entrega de documentos e peças. Algumas empresas podem, ou já estão, icar em desvantagens em comparação às outras concorrentes que buscam ou já estão em uma situação melhor desenvolvida nesse quesito, tanto em produtividade ou em inovação em processos relacionados. A demanda por soluções para esse tipo de novidade não para de crescer."</p>
 <p align="center">"A facilidade de locomoção o AGV o faz um equipamento fácil de operar, sendo útil para vários segmentos industriais, sendo que, até mesmo em ambientes administrativos ou hospitalares ele poderá atuar. O objetivo do nosso projeto é evitar que os funcionários e estudantes realizem a tarefa repetitiva de realizar entregas de peças e documentos, assim permitindo que eles mantenham a concentração nas suas tarefas."</p>
 
-Integrantes envolvidos no projeto:
-(em construção...)
+## Integrantes envolvidos no projeto:
+
+<ul>
+    <li>Front-End
+        <ul>
+            <li>Paulo</li>
+            <li>.
+        </ul>
+    </li>
+    <li>Back-End
+    </li>
+    <li>Infraestrutura
+    </li>
+    <li>Banco de Dados
+    </li>
+    <li>Projetos
+    </li>
+</ul>
