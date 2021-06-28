@@ -27,7 +27,10 @@
     <li>Back-End
         <ul>
             <li>Nicolas Silva</li>
-            <li>Victor Oliveira</li>
+            <li>Matheus Vidal</li>
+            <li>Denison Portela</li>
+            <li>Geovanne Sousa</li>
+            <li>Felipe Braga</li>
         </ul>
     </li>
     <li>Infraestrutura
@@ -37,9 +40,16 @@
             <li>Caio Daniel</li>
             <li>Igor Aldivan</li>
             <li>Maurício Calassara</li>
+            <li>Victor Oliveira</li>
         </ul>
     </li>
     <li>Banco de Dados
+        <ul>
+            <li>Jason Volney</li>
+            <li>Raquel Moreira</li>
+            <li>Ana Lucia Ferreira</li>
+            <li>João Vitor Pedrozo Cunha</li>
+        </ul>
     </li>
     <li>Projetos
         <ul>
