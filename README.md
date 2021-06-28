@@ -18,13 +18,27 @@
 <ul>
     <li>Front-End
         <ul>
-            <li>Paulo</li>
-            <li>.
+            <li>Paulo Henrique</li>
+            <li>Luan Tavares</li>
+            <li>José Carlos</li>
+            <li>Rebecca da Silva</li>
+            
         </ul>
     </li>
     <li>Back-End
+        <ul>
+            <li>Nicolas Silva</li>
+            <li>Victor Oliveira</li>
+        </ul>
     </li>
     <li>Infraestrutura
+        <ul>
+            <li>Artur Alves</li>
+            <li>Juan Victor</li>
+            <li>Caio Daniel</li>
+            <li>Igor Aldivan</li>
+            <li>Maurício Calassara</li>
+        </ul>
     </li>
     <li>Banco de Dados
     </li>
