@@ -49,6 +49,7 @@
             <li>Raquel Moreira</li>
             <li>Ana Lucia Ferreira</li>
             <li>João Vitor Pedrozo Cunha</li>
+            <li>Kauan Victor</li>
         </ul>
     </li>
     <li>Projetos
