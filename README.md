@@ -22,7 +22,6 @@
             <li>Luan Tavares</li>
             <li>José Carlos</li>
             <li>Rebecca da Silva</li>
-            
         </ul>
     </li>
     <li>Back-End
