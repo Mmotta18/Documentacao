@@ -34,6 +34,7 @@
             <li>Geovanne Sousa</li>
             <li>Felipe Braga</li>
             <li>Theo Sotero Rubira</li>
+            <li>Giovanni Perrota</li>
         </ul>
     </li>
     <li>Infraestrutura
