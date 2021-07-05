@@ -22,6 +22,7 @@
             <li>Luan Tavares</li>
             <li>José Carlos</li>
             <li>Rebecca da Silva</li>
+            <li>Theo Sotero Rubira</li>
         </ul>
     </li>
     <li>Back-End
