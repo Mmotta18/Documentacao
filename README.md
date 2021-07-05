@@ -22,7 +22,6 @@
             <li>Luan Tavares</li>
             <li>José Carlos</li>
             <li>Rebecca da Silva</li>
-            <li>Theo Sotero Rubira</li>
         </ul>
     </li>
     <li>Back-End
@@ -32,6 +31,7 @@
             <li>Denison Portela</li>
             <li>Geovanne Sousa</li>
             <li>Felipe Braga</li>
+             <li>Theo Sotero Rubira</li>
         </ul>
     </li>
     <li>Infraestrutura
