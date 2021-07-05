@@ -22,6 +22,8 @@
             <li>Luan Tavares</li>
             <li>José Carlos</li>
             <li>Rebecca da Silva</li>
+            <li>Geovanna Caserta</li>
+            <li>Julia Agatha</li>
         </ul>
     </li>
     <li>Back-End
@@ -31,7 +33,7 @@
             <li>Denison Portela</li>
             <li>Geovanne Sousa</li>
             <li>Felipe Braga</li>
-             <li>Theo Sotero Rubira</li>
+            <li>Theo Sotero Rubira</li>
         </ul>
     </li>
     <li>Infraestrutura
@@ -51,6 +53,7 @@
             <li>Ana Lucia Ferreira</li>
             <li>João Vitor Pedrozo Cunha</li>
             <li>Kauan Victor</li>
+            <li>Luiz Paulo Pereira<li/>
         </ul>
     </li>
     <li>Projetos
