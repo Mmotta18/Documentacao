@@ -22,52 +22,52 @@
     <li>Front-End
         <ul>
             <li><a href="https://github.com/Henrique1204">Paulo Henrique</a></li>
-            <li>Luan Tavares</li>
-            <li>José Carlos</li>
-            <li>Rebecca da Silva</li>
-            <li>Geovanna Caserta</li>
-            <li>Julia Agatha</li>
+            <li><a href="https://github.com/LuanTavares13">Luan Tavares</a></li>
+            <li><a href="https://github.com/JoseCarlos69">José Carlos</a></li>
+            <li><a href="https://github.com/ramos-r">Rebecca da Silva</a></li>
+            <li><a href="https://github.com/gkslima">Geovanna Caserta</a></li>
+            <li><a href="https://github.com/agatha-juh">Julia Agatha</a></li>
         </ul>
     </li>
     <li>Back-End
         <ul>
-            <li>Nicolas Silva</li>
-            <li>Matheus Vidal</li>
-            <li>Denison Portela</li>
-            <li>Geovanne Sousa</li>
-            <li>Felipe Braga</li>
-            <li>Theo Sotero Rubira</li>
-            <li>Giovanni Perrota</li>
+            <li><a href="https://github.com/nicosilva23">Nicolas Silva</a></li>
+            <li><a href="https://github.com/vidal987">Matheus Vidal</a></li>
+            <li><a href="https://github.com/denison3965">Denison Portela</a></li>
+            <li>Geovanne Sousa (Github não encontrado)</li>
+            <li><a href="https://github.com/obragaa">Felipe Braga</a></li>
+            <li><a href="https://github.com/uTalDoTheo">Theo Sotero Rubira</a></li>
+            <li>Giovanni Perrota (Github não encontrado)</li>
         </ul>
     </li>
     <li>Infraestrutura
         <ul>
-            <li>Artur Alves</li>
-            <li>Juan Victor</li>
-            <li>Caio Daniel</li>
-            <li>Igor Aldivan</li>
-            <li>Maurício Calassara</li>
-            <li>Victor Oliveira</li>
+            <li>Artur Alves (Github não encontrado)</li>
+            <li><a href="https://github.com/JuanVAF">Juan Victor</a></li>
+            <li><a href="https://github.com/caiodanielp">Caio Daniel</a></li>
+            <li><a href="https://github.com/Igor-Aldivan77">Igor Aldivan</a></li>
+            <li><a href="https://github.com/mauricio383">Maurício Calassara</a></li>
+            <li><a href="https://github.com/Vicente1507">Victor Oliveira</a></li>
         </ul>
     </li>
     <li>Banco de Dados
         <ul>
-            <li>Jason Volney</li>
-            <li>Raquel Moreira</li>
-            <li>Ana Lucia Ferreira</li>
-            <li>João Vitor Pedrozo Cunha</li>
-            <li>Kauan Victor</li>
-            <li>Luiz Paulo Pereira<li/>
+            <li><a href="https://github.com/JasonVolney">Jason Volney</a></li>
+            <li><a href="https://github.com/RachMor">Raquel Moreira</a></li>
+            <li><a href="https://github.com/Ana204">Ana Lucia Ferreira</a></li>
+            <li>João Vitor Pedrozo Cunha (Github não encontrado)</li>
+            <li>Kauan Victor (Github não encontrado)</li>
+            <li><a href="https://github.com/Luiz-Oliveiralab">Luiz Paulo Pereira</a><li/>
         </ul>
     </li>
     <li>Projetos
         <ul>
-            <li>Guilherme Mendes</li>
-            <li>Leonardo Rodrigues</li>
-            <li>Victor Morais</li>
-            <li>Nicollas Eduardo</li>
-            <li>Matheus Oliveira</li>
-            <li>Félix Rodrigo</li>
+            <li><a href="https://github.com/firgo12">Guilherme Mendes</a></li>
+            <li><a href="https://github.com/leoorodr">Leonardo Rodrigues</a></li>
+            <li><a href="https://github.com/Victor846">Victor Morais</a></li>
+            <li><a href="https://github.com/SuperNicolau123">Nicollas Eduardo</a></li>
+            <li><a href="https://github.com/Mmotta18">Matheus Oliveira</a></li>
+            <li><a href="https://github.com/netto003">Félix Rodrigo</a></li>
         </ul>
     </li>
 </ul>
