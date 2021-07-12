@@ -57,7 +57,7 @@
             <li><a href="https://github.com/Ana204">Ana Lucia Ferreira</a></li>
             <li>João Vitor Pedrozo Cunha (Github não encontrado)</li>
             <li>Kauan Victor (Github não encontrado)</li>
-            <li><a href="https://github.com/Luiz-Oliveiralab">Luiz Paulo Pereira</a><li/>
+            <li><a href="https://github.com/Luiz-Oliveiralab">Luiz Paulo Pereira</a></li>
         </ul>
     </li>
     <li>Projetos
