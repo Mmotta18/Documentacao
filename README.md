@@ -21,7 +21,7 @@
 <ul>
     <li>Front-End
         <ul>
-            <li>Paulo Henrique</li>
+            <li>- [Paulo Henrique](https://github.com/Henrique1204)</li>
             <li>Luan Tavares</li>
             <li>José Carlos</li>
             <li>Rebecca da Silva</li>
