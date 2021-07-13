@@ -42,7 +42,7 @@
     </li>
     <li>Infraestrutura
         <ul>
-            <li>Artur Alves (Github não encontrado)</li>
+            <li><a href="https://github.com/Juneor93">Artur Alves</a>)</li>
             <li><a href="https://github.com/JuanVAF">Juan Victor</a></li>
             <li><a href="https://github.com/caiodanielp">Caio Daniel</a></li>
             <li><a href="https://github.com/Igor-Aldivan77">Igor Aldivan</a></li>
